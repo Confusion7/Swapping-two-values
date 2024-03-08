@@ -23,10 +23,15 @@ DEVELOPED BY: MOHAMMED SAAJID S
 REGISTER NUMBER: 212223240093
 
 a = int(input())
+
 b = int(input())
+
 c = a
+
 a = b
+
 b = c
+
 print(f"Swapped values are: {a} {b}")
 
 
