@@ -20,8 +20,22 @@ End the program
 ## PROGRAM:
 
 
+DEVELOPED BY: MOHAMMED SAAJID S
+REGISTER NUMBER: 212223240093
+
+a = int(input())
+b = int(input())
+c = a
+a = b
+b = c
+print(f"Swapped values are: {a} {b}")
+
 
 ## RESULT:
+
+![Pythonexp1](https://github.com/ArchanaSharikalHarinarayanan/Swapping-two-values/assets/141727149/b8de2c97-40ad-4bc9-9055-46762029a020)
+
+
 Thus the swapping of two values are successfully executed
 
 
